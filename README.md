@@ -19,9 +19,9 @@ It enables users to explore pricing trends, property availability, and market sa
 
 ## 📺 Live Dashboard
 
-> ⚠️ *Note: The dashboard uses publicly available data to preserve original data privacy.*
+⚠️ **Note:** The dashboard uses publicly available data to preserve original data privacy.
 
-<iframe title="Real estate 2 new" width="100%" height="400" src="https://app.powerbi.com/view?r=eyJrIjoiZDg0ZGE1MmYtN2I2Ny00MzRjLTk2ZjItMWFjNzQ0NjQ3NTkzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDg0ZGE1MmYtN2I2Ny00MzRjLTk2ZjItMWFjNzQ0NjQ3NTkzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
 
@@ -37,14 +37,6 @@ It enables users to explore pricing trends, property availability, and market sa
    - Location
    - Price range
    - Source
-
----
-
-## 📁 Project Contents
-
-- `README.md` – Project description and dashboard embed.
-- `RealEstateDashboard.pbix` *(optional)* – Power BI file (not included here due to size limits).
-- `data_sources.txt` – Notes on data origins (available upon request).
 
 ---
 
